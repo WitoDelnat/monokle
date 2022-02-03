@@ -228,7 +228,6 @@ const App = () => {
           {isCreateProjectModalVisible && <CreateProjectModal />}
           {isLocalResourceDiffModalVisible && <LocalResourceDiffModal />}
           {isNewResourceWizardVisible && <NewResourceWizard />}
-          {isNewResourceWizardVisible && <NewResourceWizard />}
           {isQuickSearchActionsVisible && <QuickSearchActions />}
           {isRenameEntityModalVisible && <RenameEntityModal />}
           {isRenameResourceModalVisible && <RenameResourceModal />}
